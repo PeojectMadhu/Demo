@@ -1,0 +1,4 @@
+@Library('shared-library-demo')_
+stage("sample"){
+    sayHello('Navin')
+}
